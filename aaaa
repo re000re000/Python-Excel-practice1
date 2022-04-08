@@ -1,0 +1,12 @@
+import openpyxl
+import pprint
+
+wb =openpyxl.load_Python+Excel p1[data/Python+Excel p1]
+
+print[wb.sheetnames]
+
+sheet=wb[`Sum by pokemonprice`]
+
+print[sheet.Sum]
+
+state_dict={}
