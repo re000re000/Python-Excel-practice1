@@ -1,0 +1,2 @@
+for cell_obj in list(sheet.columns)[1]:
+print(cell_obj.value)
